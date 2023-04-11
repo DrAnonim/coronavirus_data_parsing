@@ -9,9 +9,8 @@ Clone the repository to your local machine using the command:
 
 bash
 
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/DrAnonim/coronavirus_data_parsing.git
 
-Replace yourusername and yourrepository with your account and repository, respectively.
 
 Install the required packages using the command:
 
